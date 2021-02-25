@@ -6,5 +6,5 @@ let identity = "france"
 canVote =(age >= 18 && identity === "france" ) ? 'You can vote' : 'You can not vote'
 
 
-console.log(canVote)
+console.log(canVote);
 
